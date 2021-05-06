@@ -1,13 +1,12 @@
-title: Your awesome title
+title: Rafael G. Madrigal
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Rafael G. Madrigal
+  email: Redacted for privacy concerns. To follow.
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This porfolio site is under **continuous** development. Layout may change without notice
+  Source codes of highlighted projects are available upon request. 
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -16,14 +15,14 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: raf_madrigal
+    github:  raf-madrigal
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    # linkedin: jekyll
+    linkedin: raf-madrigal
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
