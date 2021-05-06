@@ -1,29 +1,33 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 ---
 
-## Rafael G. Madrigal
+## Hello, I'm Raf!
 
-I expect to complete my M.Sc. in Data Science degree (x3 Dean’s Lister) at the Asian Institute of Management (AIM) in June 2021. AIM is an international research and management institution co-founded by Harvard Business School. After graduation, I intend to guide firms in crafting their respective digital strategies as they venture into the 4th Industrial Revolution and how they can harness the power of data for Social Good.
+First, I would like to thank you for visiting my Github Page. I created this website to showcase my Data Science portfolio and to serve as a virtual Curriculum Vitae.
 
-Back at work, I combined my technical and business expertise to guide middle and senior leadership through the rigorous cycle of corporate planning (strategy, business planning) and KPI management. In 2019, my outstanding work earned me the President’s Pride due to Performance (P3) award (equivalent to "employee of the year"), the highest recognition possible for my level at my firm.
+Here's a copy of my [Curriculum Vitae](http://bit.ly/RGMadrigalCV) - Updated March 2021
 
-I am also engaged with the AIM-TeaM Energy Center for Bridging Leadership, Freidrich-Ebert-Stiftung Philippines, 2030 Youth Force in the Philippines, Reboot Philippines, and International Water Association.
+### What I do
 
-My data projects are mostly centered on Natural Language Processing, Advanced Data Mining, Geospatial Analysis, Network Science, and Recommender Systems.
+1. I expect to complete my [M.Sc in Data Science](https://msds.datascience.aim.edu/) degree at the [Asian Institute of Managment](aim.edu) (AIM) in **June 2021**. AIM is an international research and management institution co-founded by Harvard Business School. 
 
-<!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+2. My professional experience is mainly on **Corporate Planning**. At work, I combined my engineering and business expertise to guide middle and senior (C-suite) leadership through the rigorous cycle of corporate planning (strategy development, business planning) and KPI Management
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+3. Outside of work, I work in several Youth organizations focused on the Planet SDGs (Clean Water and Sanitation, Clean Energy, Live on Land, Life under Water, and Climate Change). Some of these organizations include:
+- 2030 Youth Force in the Philippines, Inc. as an SDG 6 Ambassador
+- Reboot Philippines as a Renewable Energy Ambassador
+- Philippine Young Water Professional as an Asst. Dir. for Training and DEvelopment
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+4. When it comes to data science, my research inclinations are in the following (not in order):
+- Advanced Data Mining
+- Complex Systems and Network Science
+- Natural Language Processing
+- Geospatial Analysis
+- Recommender Systems
 
+Some of my projects are found under `/portfolio`. My desire is to tame the chaos (or the VUCA world) through Machine Learning and Artificial Intelligence and to help organizations navigate towards a data future.
 
-[jekyll-organization]: https://github.com/jekyll
- -->
+5. In my free time, I fancy watching movies or series on YouTube or Netflix or listening Indie (local/ international) music on Spotify. From time to time, I travel solo to La Union or Siargao and test my surfing skills.

@@ -1,6 +1,6 @@
-title: Rafael G. Madrigal
+title: R. G. Madrigal
 author:
-  name: Rafael G. Madrigal
+  name: Rafael Madrigal
   email: Redacted for privacy concerns. To follow.
 description: > # this means to ignore newlines until "show_excerpts:"
   Taming chaos through Machine Learning and Artificial Intelligence. This porfolio site is under **continuous** development. Layout may change without notice
@@ -50,7 +50,6 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
 - about.md
-
 
 # Build settings
 theme: minima
