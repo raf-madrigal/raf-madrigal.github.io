@@ -3,10 +3,10 @@ author:
   name: Rafael G. Madrigal
   email: Redacted for privacy concerns. To follow.
 description: > # this means to ignore newlines until "show_excerpts:"
-  This porfolio site is under **continuous** development. Layout may change without notice
-  Source codes of highlighted projects are available upon request. 
+  Taming chaos through Machine Learning and Artificial Intelligence. This porfolio site is under **continuous** development. Layout may change without notice
+  Source codes of highlighted projects are available upon request. Last Revision: 05 May 2021.
 
-show_excerpts: true # set to true to show excerpts on the homepage
+show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -48,8 +48,9 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+- about.md
+
 
 # Build settings
 theme: minima
