@@ -1,10 +1,9 @@
-title: R. G. Madrigal
+title: Rafael Madrigal
 author:
   name: Rafael Madrigal
   email: Redacted for privacy concerns. To follow.
 description: > # this means to ignore newlines until "show_excerpts:"
-  Taming chaos through Machine Learning and Artificial Intelligence. This porfolio site is under **continuous** development. Layout may change without notice
-  Source codes of highlighted projects are available upon request. Last Revision: 05 May 2021.
+  Taming chaos through Machine Learning and Artificial Intelligence.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -52,7 +51,7 @@ header_pages:
 - about.md
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 
 plugins:
  - jekyll-feed
