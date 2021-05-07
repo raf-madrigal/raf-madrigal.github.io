@@ -8,7 +8,7 @@ permalink: /about/
 
 First, I would like to thank you for visiting my Github Page. I created this website to showcase my Data Science portfolio and to serve as a virtual Curriculum Vitae.
 
-Here's a copy of my [Curriculum Vitae](http://bit.ly/RGMadrigalCV) - Updated March 2021
+Here's a copy of my [Curriculum Vitae](http://raf-madrigal.github.io/assets/pdf/curriculum-vitae.pdf) - Updated March 2021
 
 ### What I do
 
