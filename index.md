@@ -7,11 +7,8 @@
 #
 layout: home
 ---
-
-## Hello, I'm Raf!
-
+<h1> Hello, I'm Raf! </h1>
+<br>
 I would like to thank you for visiting my Github Page. I created this website to showcase my Data Science portfolio (found under `Projects`) and to serve as a virtual [Curriculum Vitae](http://raf-madrigal.github.io/assets/pdf/curriculum-vitae.pdf). 
-
-
-
-
+<nr>
+Note: This site is continuously developed. Last Updated: May 2021
