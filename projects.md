@@ -4,29 +4,26 @@ title: Projects
 permalink: /projects/
 ---
 
-## Hello Again!
+To follow. Expected Go Live 8 May 2021. Please come back on this date. 
 
-### What I do
+## Data Science Projects Undertaken
 
-1. I expect to complete my [M.Sc in Data Science](https://msds.datascience.aim.edu/) degree at the [Asian Institute of Managment](aim.edu) (AIM) in **June 2021**. AIM is an international research and management institution co-founded by Harvard Business School. 
+### Natural Language Processing
+- Topic modelling using SDG-related news articles 
 
-2. My professional experience is mainly on **Corporate Planning**. At work, I combined my engineering and business expertise to guide middle and senior (C-suite) leadership through the rigorous cycle of corporate planning (strategy development, business planning) and KPI Management
+### Data Mining
+- DeepRec: Hybrid Recommender system using Deep Learning
+- Extracting topics from Pres. Duterte's Weekly Briefings
 
-3. Outside of work, I work in several Youth organizations focused on the Planet SDGs (Clean Water and Sanitation, Clean Energy, Live on Land, Life under Water, and Climate Change). Some of these organizations include:
-- 2030 Youth Force in the Philippines, Inc. as an SDG 6 Ambassador
-- Reboot Philippines as a Renewable Energy Ambassador
-- Philippine Young Water Professional as an Asst. Dir. for Training and Development
+### Network Science
+- Understanding the structure of the ASEAN Corporate Network
+- Vaccination Planning: In-Silica simulation of Vaccine Strategies using Centrality Measurements
 
-### What Interests Me
+### Big Data and Cloud Computing
+- Topic Evolution of Global News Articles on COVID-19 using GDELT Database
+- Predicting Stock Prices of FAANG companies using Tones found in GDELT GKG
 
-When it comes to data science, my research inclinations are in the following (not in order):
-- Advanced Data Mining
-- Complex Systems and Network Science
-- Natural Language Processing
-- Geospatial Analysis
-- Recommender Systems
-
-Some of my projects are found under `/portfolio`. My desire is to tame the chaos (or the VUCA world) through Machine Learning and Artificial Intelligence and to help organizations navigate towards a data future.
-
-In my free time, I fancy watching movies or series on YouTube or Netflix or listening Indie (local/ international) music on Spotify. From time to time, I travel solo to La Union or Siargao and test my surfing skills.
+### Machine Learning
+- Emotion Prediction of News Articles from Rappler
+- Virtual Try On: Use of Generative Models to virtually try on clothes found in e-commerce sites
 
