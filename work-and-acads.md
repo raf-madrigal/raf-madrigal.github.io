@@ -1,32 +1,92 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Experience
+permalink: /work-and-academics/
 ---
 
-## Hello Again!
+## Work Experience
+MANILA WATER COMPANY, INC			    	           
 
-### What I do
+May 2018 to Apr 2020
+RESEARCH & PLANNING TECHNICAL MANAGER | Manila Water Philippine Ventures, Inc.
 
-1. I expect to complete my [M.Sc in Data Science](https://msds.datascience.aim.edu/) degree at the [Asian Institute of Managment](aim.edu) (AIM) in **June 2021**. AIM is an international research and management institution co-founded by Harvard Business School. 
+Aug 2017 to May 2018
+TERRITORY MANAGER | Manila Water Philippine Ventures, Inc.
 
-2. My professional experience is mainly on **Corporate Planning**. At work, I combined my engineering and business expertise to guide middle and senior (C-suite) leadership through the rigorous cycle of corporate planning (strategy development, business planning) and KPI Management
+Dec 2016 to Aug 2017
+OIC - TERRITORY MANAGER | Manila Water Philippine Ventures, Inc.
 
-3. Outside of work, I work in several Youth organizations focused on the Planet SDGs (Clean Water and Sanitation, Clean Energy, Live on Land, Life under Water, and Climate Change). Some of these organizations include:
-- 2030 Youth Force in the Philippines, Inc. as an SDG 6 Ambassador
-- Reboot Philippines as a Renewable Energy Ambassador
-- Philippine Young Water Professional as an Asst. Dir. for Training and Development
 
-### What Interests Me
+Apr 2016 to Dec 2016
+MANAGEMENT TRAINEE | Manila Water Philippine Ventures, Inc.
 
-When it comes to data science, my research inclinations are in the following (not in order):
-- Advanced Data Mining
-- Complex Systems and Network Science
-- Natural Language Processing
-- Geospatial Analysis
-- Recommender Systems
+Apr 2014 to May 2014
+WASTEWATER AGSIP INTERN | Manila Water Company, Inc.
 
-Some of my projects are found under `/portfolio`. My desire is to tame the chaos (or the VUCA world) through Machine Learning and Artificial Intelligence and to help organizations navigate towards a data future.
+## Educational Experience
 
-In my free time, I fancy watching movies or series on YouTube or Netflix or listening Indie (local/ international) music on Spotify. From time to time, I travel solo to La Union or Siargao and test my surfing skills.
+**MS IN DATA SCIENCE** [March 2020 to Present]
+*Asian Institute of Management*
+- 3x Dean’s Lister for having Term CGPA 4.51/ 5.00
+- Courses: Advanced Data Mining, Image Processing, Natural Language Processing, Deep Learning, Machine Learning, Data Visualization, Big Data, Cloud Computing
+
+
+**BS CHEMICAL ENGINEERING (cum laude)** [2010 to 2015]
+*University of the Philippines Diliman*
+- General Weighted Average of 1.508 (GPA = 3.25/4.00);
+- Ranked 74th (Top 10%) out of 720 Engineering graduates;  
+- Ranked 14th (Top 16%) out of 87 BSc Chemical Engineering Graduates
+
+
+**HIGH SCHOOL** [2006 to 2010]
+*La Consolacion College Caloocan City*
+- Class Salutatorian
+- Best in Mathematics
+- Recipient, Mercury Drug Excellence in Mathematics Award
+
+
+**BLOCKCHAIN BUSINESS SPECIALIST CERTIFICATION PROGRAM** [Sep 2020 to Oct 2020]
+*UnionBank of the Philippines*
+
+**RENEWABLE ENERGY BOOTCAMP (REBOOT)** [Apr 2018 to Jul 2019]
+*Friedrich Ebert Stiftung Philippines*
+
+**FUTURE BRIDGING LEADERSHIP PROGRAM** [Mar 2018 to Jan 2019]
+*Asian Institute of Management*
+
+## Trainings and Seminars
+
+### 2019
+- Presenter. Youth Climate Energy Forum. Friedrich-Ebert-Stiftung Foundation Philippines. [July 2019]
+- Delegate and Poster Presenter. 9th International Young Water Professionals Conference. International Water Association [June 2019]
+- Trainee. Establishing and Implementing an Integrated Management System (IMS22). BSI Neville Clark. [Apr 2019] 
+- Delegate. 10th International Water Association (IWA) Efficient Conference. International Water Association [Jan 2019]
+
+### 2018
+- Delegate. First Bridging Leadership (BL) International Colloquium. AIM TeaM Energy Center (TEC) for Bridging Leadership in collaboration with Synergos and TeaM Energy Foundation. [Dec 2018]
+- Delegate. Asia Water Forum 2018: “Information, Innovation, Technology”. Asian Development Bank [Oct 2018]
+- Delegate. WaterLinks Forum 2018 “Solving Asia’s Urban Water Crisis: The Water-Food-Energy-Climate Change Nexus”. Waterlinks [Sep 2018]
+- Delegate. Philwater 2018: 25th Philippine Water Works Association International Conference & Exhibition. Philippine Water Works Association [Sep 2018]
+- Fellow. Young Water Leaders’ Summit @ Singapore International Water Week 2018. PUB Singapore’s National Water Agency and Singapore Ministry of Environment and Water Resources [July 2018]
+- Delegate. Water Environment Association of the Philippines 13th National Annual Convention “Forging Partnerships in Environmental Protection”. Water Environmental Association of the Philippines. [Jun 2018]
+- Delegate. Asian Forum on Enterprise for Society (AFES) 2018. Asian Institute of Management Ramon V. Del Rosario (AIM RVR) Center for Corporate Social Responsibility [Apr 2018]
+- Project Innovations Laboratory (InLab): Product Innovation and Development & Business Modelling 101. Manila Water Total Solutions Corp. [Sep 2017 –Jan 2018]
+
+### 2017
+- Trainee. Continuing Environmental Education Program (CEEP) for Pollution Control Officers. Laguna Lake Development Authority (LLDA) [Dec 2017]
+- Delegate. The Filipino Youth Beyond Paris: Acting on Climate, from Paris to Kigali and Beyond. The Climate Reality Project Philippines [Nov 2017]
+- Trainee. Basic Training Course for Pollution Control Officers (40 hours). Department of Environment and Natural Resources –Environmental Management Bureau (National Capital Region) [May 2017]
+- Delegate. WaterPhilippines 2017 Exposition. Philippine Waterworks Association (PWWA) [Mar 2017]
+
+### 2016
+- Delegate. Sustainable Enterprise Summit 2016: People, Planet, Profit. EnderunExtension [May 2016]
+
+### 2015 and Older
+- Attendee. Lecture of Dr. Rigoberto Advincula on “Chemical and Polymer Innovation via Nanostructuring, Lightweighting”, and “Additive Manufacturing, and Nanostructure and Polymer Materials for the Oil and Gas Industry”. Engineering Research and Development for Technology (ERDT) [Jun 2015]
+- Delegate. ASEAN Undergraduate Chemical Engineering Education Summit (AUChEEdS) [Jul 2014]
+- Trainee. Bridging the Generation Gap: Being a Leader in Innovation While Maintaining Customer Centricity. Ayala Corporation [May 2014]
+- Goodwill Ambassador. JENESYS 2.0 Exchange Program (Batch 11 –Science and Technology). Japan International Cooperation Center (JICE) and Department of Science and Technology [May 2014]
+- Participant. Mathematics Trainers’ Guild (MTG) Advanced Mathematics Training Program [2010]
+- Participant. Mathematics Teachers Association Philippines-Department of Education (MTAP-DepEd) Saturday Programs in Mathematics for Regular and Talented Students [2006 -2010] 
+- Finalist, Annual Metrobank-MTAP-DepEd Team Mathematics Challenge Private Sectoral Division [2007 -2010]
 

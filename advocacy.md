@@ -1,32 +1,87 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Advocacy
+permalink: /advocacy/
 ---
 
-## Hello Again!
+## My Advocacy Journey
 
-### What I do
+I have been an active member of several organizations geared towards self-development and sustainable development since college. My recent ventures in the water utility sector paved the way to my membership in the International Water Association, while my passion for sustainable development led to roles in 2030 Youth Force in the Philippines and Reboot Philippines.
 
-1. I expect to complete my [M.Sc in Data Science](https://msds.datascience.aim.edu/) degree at the [Asian Institute of Managment](aim.edu) (AIM) in **June 2021**. AIM is an international research and management institution co-founded by Harvard Business School. 
+### IWA Young Water Professionals (Philippine Chapter)
+*Diliman, Quezon City*
 
-2. My professional experience is mainly on **Corporate Planning**. At work, I combined my engineering and business expertise to guide middle and senior (C-suite) leadership through the rigorous cycle of corporate planning (strategy development, business planning) and KPI Management
+**ASST. DIR. FOR TRAINING AND DEVELOPMENT** [July 2019 - Present]
+- Spearheads #Kwentubig a water advocacy building platform that harnesses the power of storytelling and personal narratives of young water advocates
 
-3. Outside of work, I work in several Youth organizations focused on the Planet SDGs (Clean Water and Sanitation, Clean Energy, Live on Land, Life under Water, and Climate Change). Some of these organizations include:
-- 2030 Youth Force in the Philippines, Inc. as an SDG 6 Ambassador
-- Reboot Philippines as a Renewable Energy Ambassador
-- Philippine Young Water Professional as an Asst. Dir. for Training and Development
+### 2030 Youth Force in the Philippines, Inc.
+*Maginhawa, Quezon City*
 
-### What Interests Me
+**AMBASSADOR FOR SDG 6: CLEAN WATER AND SANITATION** [Oct 2018 to Present]
 
-When it comes to data science, my research inclinations are in the following (not in order):
-- Advanced Data Mining
-- Complex Systems and Network Science
-- Natural Language Processing
-- Geospatial Analysis
-- Recommender Systems
+- Develops programs and projects that advocates for Clean Water and Sanitation (United Nation Sustainable Development Goal 6)
+- Promotes awareness on UN SDG 6 through multimedia channels
 
-Some of my projects are found under `/portfolio`. My desire is to tame the chaos (or the VUCA world) through Machine Learning and Artificial Intelligence and to help organizations navigate towards a data future.
+**OIC – NATIONAL DIR. FOR EDUCATION AND RESEARCH** [Apr 2019 to Oct 2019]
 
-In my free time, I fancy watching movies or series on YouTube or Netflix or listening Indie (local/ international) music on Spotify. From time to time, I travel solo to La Union or Siargao and test my surfing skills.
+### UP Chemical Engineering Society, Inc.
+*College of Engineering, University of the Philippines Diliman, Quezon City*
+
+**VICE PRESIDENT FOR FINANCE** [Oct 2011 to Jun 2015]
+
+- Overhauled organization SOPs for improved cash tracking and events documentation. 
+- Spearheaded a member development program that focused on project management and events handling. 
+- Oversaw various FRPs and marketing ventures and drafted programs for future implementation aiming to improve the financial and overall stability of the organization. 
+
+Other Position/s Held:
+- Finance Head, Induction Ceremony [Apr 2014]
+- Finance Co-head, Engineering Week Team [Oct ‘2013 -Jan 2014]
+- Publicity Coordinator, Fundraising Team (UP KEM Online Shop) [Nov 2012 –May 2013]
+- Customer Service Representative, Fundraising Team (UP KEM Online Shop) [Nov 2012 – May 2013]
+- Assistant Marketing Head, KEM Gives Back [2013]
+- Assistant Head, Chemical Engineering Department Seminar [Jun 2012]
+- Finance Head, Freshman Block Handling Team [Apr 2012 –Jun 2012]
+- Engineering Week Event Head, Engineering Week Team [Dec 2011]
+- Finance Staff, Fundraising Team (Garage Sale) [Oct 2011 –Dec 2011]
+
+### UP Career Assistance Program for Engineering Students
+*College of Engineering, University of the Philippines Diliman, Quezon City*
+
+**PRODUCTIONS TEAM HEAD** [Jun 2013 to Mar 2014]
+
+- Secured university establishments for publicity posting two months ahead of schedule through effective coordination with different administration offices;
+- Served as secondary liaison between the organization and its printing partners and company sponsors;
+- Mainly involved in the production of printed materials for the organization’s job fair and seminar series.
+
+Other Position/s Held
+- Logistics Team Member, Company Mixer [Aug 2014 –Dec 2014]
+- Internals Team Member [2011]
+
+### Engineering Registration Committee
+*College of Engineering, University of the Philippines Diliman, Quezon City*
+
+
+**PEACE AND ORDER OFFICER/ CROWD MARSHALL** [Apr 2012 to Jun 2015]
+
+- Served as liaison between the student body and administration office during the registration period;
+- Assisted students in their registration every semester;
+- Responsible for keeping peace and order during the registration period
+
+## Other Volunteer Activities
+
+### 2018 to Present
+- Panelist. Our City; Our AdvoQC. Quezon City Government Environmental Protection and Waste Management Department. [Nov 2019]
+- Panelist. Kids’ Innovation Camp 1.1. Philippine Science High School System. [Nov 2019]
+- Breakout Session (“Matatag”) Facilitator and Presenter. NEDA Ambisyon Natin 2040 Symposium and Expo. National Economic Development Authority. [Oct 2019]
+- Delegate. Sustainable Development Goals (SDG) Bayanihan Summit 2018. 2030 Youth Force in the Philippines, Inc. [Dec 2018] 
+- Project Lead/ Convenor, #MagicGulay: Enhancing Social Cohesion in Urban Poor Groups through the development of a co-learning urban [Sep 2018 to Present]
+- Volunteer. Save San Roque Alliance [Jun 2019 to Present]
+
+### 2016
+- Tree Planter, #1Bataan: A Guinness World Record Attempt, Provincial Government of Bataan [Jun 2016]
+- Tree Planter, La Mesa Eco-Park Tree Planting, Manila Water Foundation and Manila Water Sustainable Department [Jun 2016]
+- Volunteer, Brigada Esk’wela: CENTEX Elementary School (Annual Classroom Cleaning and Painting), Ayala Foundation Inc. [Jun 2016]
+
+### 2015 and Older
+- Volunteer Tutor, Diliman Learning Resource Center, University of the Philippines Diliman [Oct 2010 – Mar 2011] 
 

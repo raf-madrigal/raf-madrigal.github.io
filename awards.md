@@ -1,32 +1,27 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Awards
+permalink: /awards/
 ---
 
-## Hello Again!
+## 2021
+- Dean's Lister (Term 3), Asian Institute of Management [Feb 2021]
 
-### What I do
+## 2020
+- Dean's Lister (Term 2), Asian Institute of Management [Oct 2020]
+- Dean's Lister (Term 1), Asian Institute of Management [Jun 2020]
 
-1. I expect to complete my [M.Sc in Data Science](https://msds.datascience.aim.edu/) degree at the [Asian Institute of Managment](aim.edu) (AIM) in **June 2021**. AIM is an international research and management institution co-founded by Harvard Business School. 
+## 2019
+- President’s Pride Due to Performance, Manila Water Philippine Ventures, Inc. [2019]
 
-2. My professional experience is mainly on **Corporate Planning**. At work, I combined my engineering and business expertise to guide middle and senior (C-suite) leadership through the rigorous cycle of corporate planning (strategy development, business planning) and KPI Management
-
-3. Outside of work, I work in several Youth organizations focused on the Planet SDGs (Clean Water and Sanitation, Clean Energy, Live on Land, Life under Water, and Climate Change). Some of these organizations include:
-- 2030 Youth Force in the Philippines, Inc. as an SDG 6 Ambassador
-- Reboot Philippines as a Renewable Energy Ambassador
-- Philippine Young Water Professional as an Asst. Dir. for Training and Development
-
-### What Interests Me
-
-When it comes to data science, my research inclinations are in the following (not in order):
-- Advanced Data Mining
-- Complex Systems and Network Science
-- Natural Language Processing
-- Geospatial Analysis
-- Recommender Systems
-
-Some of my projects are found under `/portfolio`. My desire is to tame the chaos (or the VUCA world) through Machine Learning and Artificial Intelligence and to help organizations navigate towards a data future.
-
-In my free time, I fancy watching movies or series on YouTube or Netflix or listening Indie (local/ international) music on Spotify. From time to time, I travel solo to La Union or Siargao and test my surfing skills.
-
+## 2015 and Older
+- Elected Member (Baccalaureate Level), International Honor Society of Phi Kappa Phi [2015]
+- Top Ten of Academic Batch, Department of Chemical Engineering, University of the Philippines Diliman [2014 –2015]
+- College Scholar (Dean’s Lister), College of Engineering, University of the Philippines Diliman [Mar 2013 –Jun 2015]
+- Recipient, Merck, Inc. Scholarship Grant [Nov 2012 -Jun 2015]
+- Recipient, Philippine Association of Metropolitan Washington Engineers (PAMWE) Foundation, Inc. Scholarship Grant [Jun 2012–Jan 2014]
+- University Scholar (Dean’s Lister), College of Engineering, University of the Philippines Diliman [Oct 2010 –Mar 2013]
+- Best Engineering Week Day Event Head, UP Chemical Engineering Society, Inc. (UP KEM) [2012]
+- Finalist, Noblesse Oblige, a project conceptualization event for student, Engineering Overall Excellence Awards (EOEA) –Individual Category, UP Alliance for Responsive Involvement and Student Empowerment (ARISE) [Jan 2012]
+- Consistent High School Honor Student, La Consolacion College -Caloocan [2006 -2010]
+- Cadet Captain Officer, 137th Squadron of the Aerospace Cadets of the Philippines [2010]
