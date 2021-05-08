@@ -6,7 +6,7 @@ permalink: /work-and-academics/
 
 ## Work Experience
 
-### MANILA WATER PHILIPPINE VENTURES, INC**		    	           
+### MANILA WATER PHILIPPINE VENTURES, INC		    	           
 
 **Corporate Planning Manager** (Research and Planning Technical Manager) *May 2018 to Apr 2020*
 -	Efficiently facilitated the formation of tactical and execution plans of 21 local and 3 international subsidiaries of the firm through the incorporation of risk mitigation initiatives and close coordination with middle and senior management and the enterprise corporate planning group.
