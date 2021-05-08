@@ -8,9 +8,10 @@ permalink: /projects/
 
 ## Data Science Projects Undertaken
 
-**Machine Learning**
+**Machine Learning and Artificial Intelligence**
 - Emotion Distribution Recognition of News Articles using Rappler's Crowd-Annotated Mood Metrics [[Presentation]](http://raf-madrigal.github.io/assets/pdf/ml1-presentation.pdf)
 - Virtual Trying on of clothes using Generative Neural Networks [[Presentation]](http://raf-madrigal.github.io/assets/pdf/ml2-presentation.pdf)
+- A Bayesian Approach to Deep Learning
 
 **Big Data and Cloud Computing**
 - Pandemic Pulse: Understanding Global Trends During the Pandemic using GDELT Global Knowledge Graph [[Presentation]](http://raf-madrigal.github.io/assets/pdf/bdcc-presentation.pdf)
@@ -26,4 +27,3 @@ permalink: /projects/
 
 **Natural Language Processing**
 - Determining Gaps in Global Efforts towards the achievement of the SDGs through the use of Topic Model on News Articles [[Presentation]](http://raf-madrigal.github.io/assets/pdf/nlp-presentation.pdf)
-
