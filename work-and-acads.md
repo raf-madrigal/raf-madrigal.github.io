@@ -5,25 +5,27 @@ permalink: /work-and-academics/
 ---
 
 ## Work Experience
-MANILA WATER COMPANY, INC			    	           
 
-May 2018 to Apr 2020
-RESEARCH & PLANNING TECHNICAL MANAGER | Manila Water Philippine Ventures, Inc.
+**MANILA WATER PHILIPPINE VENTURES, INC**		    	           
 
-Aug 2017 to May 2018
-TERRITORY MANAGER | Manila Water Philippine Ventures, Inc.
+**Corporate Planning Manager** (Research and Planning Technical Manager) *May 2018 to Apr 2020*
+-	Efficiently facilitated the formation of tactical and execution plans of 21 local and 3 international subsidiaries of the firm through the incorporation of risk mitigation initiatives and close coordination with middle and senior management and the enterprise corporate planning group.
+-	Enhanced corporate governance in MWPV and MWAP by defining structures for risk management, leadership team meetings, corporate planning, and new business plan reviews resulting in faster approvals, efficient use of executive time, and more cohesive management report to MWC Mancom and BOD.
+-	Assessed impacts of market trends, regulations, and competition movement in the waterscape to advise the COO-New Business on investment decisions in APAC and MENA paving the way into the recent foray of the firm in the Kingdom of Saudi Arabia and renewed relationship with partners in Yangon, Myanmar.
+-	Awarded with President’s Pride due to Performance (Employee of the Year) in 2019.
 
-Dec 2016 to Aug 2017
-OIC - TERRITORY MANAGER | Manila Water Philippine Ventures, Inc.
+**Territory Manager** *Dec 2016 to May 2018*
+-	Led the business plan development and the takeover of water and wastewater operations in several Ayala Land Estates in NCR resulting in a negotiated and secured 5-year water tariffs 15-20% better than planned.
+-	Ensured compliance with Operations and Management Agreement and maintained strong client ties with Bonifacio Water Corp. as Key Account Manager leading to a longer-term contract arrangement.
+-	Developed relational data model for analysis using PowerPivot for monthly Billed Volume and Supply Data to ensure data integrity and improve data extraction efficiency vital to success of the unit’s SAP-ISU project.
+-	Led a lean team in managing water operations in BGC resulting in 20% Revenue outperformance in 2017.
+
+**Management Trainee** *Apr 2016 to Dec 2016*
+-	Mapped business processes in Laguna AAA Water Corporation that allowed a faster set-up of the same business processes in Estate Water, MWPV’s new subsidiary.
 
 
-Apr 2016 to Dec 2016
-MANAGEMENT TRAINEE | Manila Water Philippine Ventures, Inc.
 
-Apr 2014 to May 2014
-WASTEWATER AGSIP INTERN | Manila Water Company, Inc.
-
-## Educational Experience
+## Education
 
 **MS IN DATA SCIENCE** [March 2020 to Present]
 *Asian Institute of Management*
@@ -44,7 +46,6 @@ WASTEWATER AGSIP INTERN | Manila Water Company, Inc.
 - Best in Mathematics
 - Recipient, Mercury Drug Excellence in Mathematics Award
 
-
 **BLOCKCHAIN BUSINESS SPECIALIST CERTIFICATION PROGRAM** [Sep 2020 to Oct 2020]
 *UnionBank of the Philippines*
 
@@ -56,13 +57,13 @@ WASTEWATER AGSIP INTERN | Manila Water Company, Inc.
 
 ## Trainings and Seminars
 
-### 2019
+**2019**
 - Presenter. Youth Climate Energy Forum. Friedrich-Ebert-Stiftung Foundation Philippines. [July 2019]
 - Delegate and Poster Presenter. 9th International Young Water Professionals Conference. International Water Association [June 2019]
 - Trainee. Establishing and Implementing an Integrated Management System (IMS22). BSI Neville Clark. [Apr 2019] 
 - Delegate. 10th International Water Association (IWA) Efficient Conference. International Water Association [Jan 2019]
 
-### 2018
+**2018**
 - Delegate. First Bridging Leadership (BL) International Colloquium. AIM TeaM Energy Center (TEC) for Bridging Leadership in collaboration with Synergos and TeaM Energy Foundation. [Dec 2018]
 - Delegate. Asia Water Forum 2018: “Information, Innovation, Technology”. Asian Development Bank [Oct 2018]
 - Delegate. WaterLinks Forum 2018 “Solving Asia’s Urban Water Crisis: The Water-Food-Energy-Climate Change Nexus”. Waterlinks [Sep 2018]
@@ -72,16 +73,16 @@ WASTEWATER AGSIP INTERN | Manila Water Company, Inc.
 - Delegate. Asian Forum on Enterprise for Society (AFES) 2018. Asian Institute of Management Ramon V. Del Rosario (AIM RVR) Center for Corporate Social Responsibility [Apr 2018]
 - Project Innovations Laboratory (InLab): Product Innovation and Development & Business Modelling 101. Manila Water Total Solutions Corp. [Sep 2017 –Jan 2018]
 
-### 2017
+**2017**
 - Trainee. Continuing Environmental Education Program (CEEP) for Pollution Control Officers. Laguna Lake Development Authority (LLDA) [Dec 2017]
 - Delegate. The Filipino Youth Beyond Paris: Acting on Climate, from Paris to Kigali and Beyond. The Climate Reality Project Philippines [Nov 2017]
 - Trainee. Basic Training Course for Pollution Control Officers (40 hours). Department of Environment and Natural Resources –Environmental Management Bureau (National Capital Region) [May 2017]
 - Delegate. WaterPhilippines 2017 Exposition. Philippine Waterworks Association (PWWA) [Mar 2017]
 
-### 2016
+**2016**
 - Delegate. Sustainable Enterprise Summit 2016: People, Planet, Profit. EnderunExtension [May 2016]
 
-### 2015 and Older
+**2015 and Older**
 - Attendee. Lecture of Dr. Rigoberto Advincula on “Chemical and Polymer Innovation via Nanostructuring, Lightweighting”, and “Additive Manufacturing, and Nanostructure and Polymer Materials for the Oil and Gas Industry”. Engineering Research and Development for Technology (ERDT) [Jun 2015]
 - Delegate. ASEAN Undergraduate Chemical Engineering Education Summit (AUChEEdS) [Jul 2014]
 - Trainee. Bridging the Generation Gap: Being a Leader in Innovation While Maintaining Customer Centricity. Ayala Corporation [May 2014]
