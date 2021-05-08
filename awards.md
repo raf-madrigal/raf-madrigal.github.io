@@ -4,17 +4,17 @@ title: Awards
 permalink: /awards/
 ---
 
-## 2021
+**2021**
 - Dean's Lister (Term 3), Asian Institute of Management [Feb 2021]
 
-## 2020
+**2020**
 - Dean's Lister (Term 2), Asian Institute of Management [Oct 2020]
 - Dean's Lister (Term 1), Asian Institute of Management [Jun 2020]
 
-## 2019
+**2019**
 - President’s Pride Due to Performance, Manila Water Philippine Ventures, Inc. [2019]
 
-## 2015 and Older
+**2015 and Older**
 - Elected Member (Baccalaureate Level), International Honor Society of Phi Kappa Phi [2015]
 - Top Ten of Academic Batch, Department of Chemical Engineering, University of the Philippines Diliman [2014 –2015]
 - College Scholar (Dean’s Lister), College of Engineering, University of the Philippines Diliman [Mar 2013 –Jun 2015]

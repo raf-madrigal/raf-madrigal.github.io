@@ -69,7 +69,7 @@ Other Position/s Held
 
 ## Other Volunteer Activities
 
-### 2018 to Present
+**2018 to Present**
 - Panelist. Our City; Our AdvoQC. Quezon City Government Environmental Protection and Waste Management Department. [Nov 2019]
 - Panelist. Kids’ Innovation Camp 1.1. Philippine Science High School System. [Nov 2019]
 - Breakout Session (“Matatag”) Facilitator and Presenter. NEDA Ambisyon Natin 2040 Symposium and Expo. National Economic Development Authority. [Oct 2019]
@@ -77,11 +77,11 @@ Other Position/s Held
 - Project Lead/ Convenor, #MagicGulay: Enhancing Social Cohesion in Urban Poor Groups through the development of a co-learning urban [Sep 2018 to Present]
 - Volunteer. Save San Roque Alliance [Jun 2019 to Present]
 
-### 2016
+**2016**
 - Tree Planter, #1Bataan: A Guinness World Record Attempt, Provincial Government of Bataan [Jun 2016]
 - Tree Planter, La Mesa Eco-Park Tree Planting, Manila Water Foundation and Manila Water Sustainable Department [Jun 2016]
 - Volunteer, Brigada Esk’wela: CENTEX Elementary School (Annual Classroom Cleaning and Painting), Ayala Foundation Inc. [Jun 2016]
 
-### 2015 and Older
+**2015 and Older**
 - Volunteer Tutor, Diliman Learning Resource Center, University of the Philippines Diliman [Oct 2010 – Mar 2011] 
 
