@@ -4,26 +4,26 @@ title: Projects
 permalink: /projects/
 ---
 
-> Work in Progress. Write up per project to follow on the site. Please check by 8 May 2021 EOD
+> Work in Progress. Write up per project to follow on the site. Please check by 8 May 2021 EOD. In the meantime, please check the presentations attached per project
 
 ## Data Science Projects Undertaken
 
 **Natural Language Processing**
-- Topic modelling using SDG-related news articles 
+- Determining Gaps in Global Efforts towards the achievement of the SDGs through the use of Topic Model on News Articles [[Presentation]](http://raf-madrigal.github.io/assets/pdf/nlp-presentation.pdf)
 
 **Data Mining**
 - DeepRec: Hybrid Recommender system using Deep Learning
-- Extracting topics from Pres. Duterte's Weekly Briefings
+- Uncovering a Populist Government: Identifying PH Government's response to COVID-19 using Clustering Analysis of Pres. Duterte's Weekly Program [[Presentation]](http://raf-madrigal.github.io/assets/pdf/dmw-presentation.pdf)
 
 **Network Science**
-- Understanding the structure of the ASEAN Corporate Network
+- Community Structure of ASEAN Corporate Network [[Presentation]](http://raf-madrigal.github.io/assets/pdf/ns-presentation.pdf) 
 - Vaccination Planning: In-Silica simulation of Vaccine Strategies using Centrality Measurements
 
 **Big Data and Cloud Computing**
-- Topic Evolution of Global News Articles on COVID-19 using GDELT Database
+- Pandemic Pulse: Understanding Global Trends During the Pandemic using GDELT Global Knowledge Graph [[Presentation]](http://raf-madrigal.github.io/assets/pdf/bdcc-presentation.pdf)
 - Predicting Stock Prices of FAANG companies using Tones found in GDELT GKG
 
 **Machine Learning**
-- Emotion Prediction of News Articles from Rappler
-- Virtual Try On: Use of Generative Models to virtually try on clothes found in e-commerce sites
+- Emotion Distribution Recognition of News Articles using Rappler's Crowd-Annotated Mood Metrics [[Presentation]](http://raf-madrigal.github.io/assets/pdf/ml1-presentation.pdf)
+- Virtual Trying on of clothes using Generative Neural Networks [[Presentation]](http://raf-madrigal.github.io/assets/pdf/ml2-presentation.pdf)
 
