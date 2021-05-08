@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-To follow. Expected Go Live 8 May 2021. Please come back on this date. 
+> Work in Progress. Write up per project to follow on the site. Please check by 8 May 2021 EOD
 
 ## Data Science Projects Undertaken
 
