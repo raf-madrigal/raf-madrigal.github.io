@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-> Work in Progress. Write up per project to follow on the site. Please check by 8 May 2021 EOD. In the meantime, please check the presentations attached per project
+> Work in Progress. Write up per project to follow. Please check by 9 May 2021 EOD. In the meantime, please check the presentations attached per project
 
 ## Data Science Projects Undertaken
 
