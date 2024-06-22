@@ -6,9 +6,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: "Welcome!"
+title: "Welcome! Bonjour!"
 ---
-<p style="font-size:50px">Hi, I am Rafael. Data Scientistbased in Toronto</p>
+<p style="font-size:100px">Hi, I am Rafael. Data Scientist based in Toronto</p>
 
 Hi there! I'm Rafael, a Data Scientist who loves using AI to find important information and make new things. I've been working with data for more than 7 years, mainly in banking, utilities, and finance. I know how to mix technical skills with smart planning to get things done well.
 
