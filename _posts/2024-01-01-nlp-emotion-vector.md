@@ -4,16 +4,16 @@ title: "HMM…INTENSE! Analyzing Emotion Distribution in News Articles Using Rap
 categories: post
 ---
 
-# Title
-HMM…INTENSE! Analyzing Emotion Distribution in News Articles Using Rappler’s Crowd-Annotated Mood Metrics
+<!-- ### Title
+HMM…INTENSE! Analyzing Emotion Distribution in News Articles Using Rappler’s Crowd-Annotated Mood Metrics -->
 
-# Headline/ Summary
+### Headline/ Summary
 A Comprehensive Machine Learning Approach to Understand Reader Emotions in News Articles Through Rappler's Mood Metrics
 
-# Background
+### Background
 In recent years, there has been a significant shift towards consuming news on smartphones, especially among younger generations. This trend has not only changed how news is accessed but also highlighted the importance of emotions in news consumption. Emotions play a crucial role in decision-making and influence what content spreads fastest on social media. Recognizing this, Rappler, a prominent Philippine news website, developed a mood meter allowing readers to annotate their emotional responses to articles. This study leverages machine learning to analyze these emotions, providing deeper insights into how news impacts readers.
 
-# Business Challenge
+## Business Challenge
 News articles often evoke complex emotions that go beyond mere factual reporting. Previous studies have largely focused on sentiment polarity (positive, negative, neutral) and basic emotion classification. However, they have not sufficiently explored the intensity and distribution of these emotions. The challenge lies in accurately recognizing and categorizing the variety of emotions readers experience, which is crucial for news agencies, marketers, and content creators to enhance engagement and impact.
 
 # Goals
