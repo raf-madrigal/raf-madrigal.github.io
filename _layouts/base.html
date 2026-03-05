@@ -1,20 +1,25 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}" data-theme="light">
   {%- include head.html -%}
-
   <body>
-
     {%- include header.html -%}
-
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+    <main>
+      {{ content }}
     </main>
-
     {%- include footer.html -%}
+    <script>
+      (function() {
+        var saved = localStorage.getItem('theme');
+        var theme = saved || 'light';
+        document.documentElement.setAttribute('data-theme', theme);
 
-</body>
-  
+        document.getElementById('theme-toggle').addEventListener('click', function() {
+          var current = document.documentElement.getAttribute('data-theme');
+          var next = current === 'dark' ? 'light' : 'dark';
+          document.documentElement.setAttribute('data-theme', next);
+          localStorage.setItem('theme', next);
+        });
+      })();
+    </script>
+  </body>
 </html>

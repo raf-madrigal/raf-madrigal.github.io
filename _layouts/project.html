@@ -7,16 +7,15 @@ layout: base
     <header class="post-header">
       <a href="{{ '/works/' | relative_url }}" class="back-link">&larr; Back to Works</a>
       <h1 class="post-title">{{ page.title }}</h1>
-      <div class="post-meta">
-        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
-        {%- if page.categories.size > 0 -%}
+      {%- if page.tags.size > 0 -%}
+        <div class="post-meta">
           <span class="post-tags">
-            {%- for cat in page.categories -%}
-              <span class="tag">{{ cat }}</span>
+            {%- for tag in page.tags -%}
+              <span class="tag">{{ tag }}</span>
             {%- endfor -%}
           </span>
-        {%- endif -%}
-      </div>
+        </div>
+      {%- endif -%}
     </header>
     <div class="post-content">
       {{ content }}
