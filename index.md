@@ -36,7 +36,7 @@ title: Home
   <div class="container">
     <h2 class="section-title">About</h2>
     <div class="about-text">
-      <p>Senior Data Scientist with 8+ years of analytics experience, specializing in NLP, Large Language Models, and Responsible AI. Currently leading GenAI transformation of Global Contact Centre Operations at Manulife across North America, building AI-powered virtual assistants for customer service.</p>
+      <p>Senior ML & Research Engineer with 10 years of experience – last 5 years in the end-to-end translation of SOTA AI Research into production systems within regulated finance. My background combines the experience as an ML Research investigating algorithmic feasibility with an ML Engineer architecting enterprise-scale solutions. This dual perspective enables me to lead the full research-to-deployment lifecycle: from the exploration of Privacy-Enhancing Technologies and Responsible AI for tabular ML to building hardened, modular libraries that scale Multi-Agent Orchestration for millions of users.</p>
       <p>Previously managed data science teams at GCash (90M+ users), co-developed LLM Operations and Red Teaming frameworks, and championed Responsible AI practices including 30+ pre-deployment model audits for bias and fairness across banking, finance, and utilities.</p>
       <p>I thrive at the intersection of complex systems and cutting-edge research, building the infrastructure that makes foundation models useful at scale.</p>
     </div>
