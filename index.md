@@ -11,7 +11,7 @@ title: Home
       </div>
       <div class="hero-info">
         <h1 class="hero-title">Rafael Madrigal</h1>
-        <p class="hero-subtitle">Senior Data Scientist · ML Engineer · AI Researcher</p>
+        <p class="hero-subtitle">Senior Machine Learning Engineer · Research Engineer · Applied AI Researcher</p>
         <p class="hero-location">Toronto, ON, Canada</p>
         <div class="hero-links">
           <a href="https://github.com/raf-madrigal/" target="_blank" rel="noopener" aria-label="GitHub">
@@ -38,6 +38,7 @@ title: Home
     <div class="about-text">
       <p>Senior Data Scientist with 8+ years of analytics experience, specializing in NLP, Large Language Models, and Responsible AI. Currently leading GenAI transformation of Global Contact Centre Operations at Manulife across North America, building AI-powered virtual assistants for customer service.</p>
       <p>Previously managed data science teams at GCash (90M+ users), co-developed LLM Operations and Red Teaming frameworks, and championed Responsible AI practices including 30+ pre-deployment model audits for bias and fairness across banking, finance, and utilities.</p>
+      <p>I thrive at the intersection of complex systems and cutting-edge research, building the infrastructure that makes foundation models useful at scale.</p>
     </div>
   </div>
 </section>
@@ -51,7 +52,7 @@ title: Home
       <div class="timeline-item current">
         <div class="timeline-dot"></div>
         <div class="timeline-content">
-          <div class="timeline-role">Senior Data Scientist</div>
+          <div class="timeline-role">Senior Machine Learning Engineer</div>
           <div class="timeline-details">
             <span class="timeline-company">Manulife Canada</span>
             <span class="timeline-year">2024 &ndash; Present</span>
@@ -61,7 +62,7 @@ title: Home
       <div class="timeline-item">
         <div class="timeline-dot"></div>
         <div class="timeline-content">
-          <div class="timeline-role">Senior Data Scientist</div>
+          <div class="timeline-role">Senior Machine Learning Researcher</div>
           <div class="timeline-details">
             <span class="timeline-company">GCash (Globe Fintech Innovations)</span>
             <span class="timeline-year">2022 &ndash; 2024</span>
